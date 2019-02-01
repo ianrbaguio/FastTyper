@@ -1,0 +1,2 @@
+# FastTyper
+A Typing Game
